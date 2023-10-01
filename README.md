@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 
 - [x] **The web app uses React to display data from the API**
 - [x] **The web app is connected to a PostgreSQL database, with an appropriately structured Events table**
-  - [ ] **NOTE: Your GIF or a screenshot added to this README must include a view of your Railway database that shows the contents of the table used by your app**
+  - [x] **NOTE: Your GIF or a screenshot added to this README must include a view of your Railway database that shows the contents of the table used by your app**
 - [x] **The web app displays the title of the app**
 - [x] **A visual interface allows the user to select a Location they would like to view**
 - [x] **Clicking on a Location shows a list of all items from the Events table that corresponds to that Location**
@@ -30,8 +30,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/gallery/j6SjaGG
+<img src='https://imgur.com/gallery/j6SjaGG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with gifcap 
